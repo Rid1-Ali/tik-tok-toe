@@ -1,0 +1,4 @@
+from examplemod import do_a_thing, do_another_thing as a
+
+a()
+do_a_thing()
